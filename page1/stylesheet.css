@@ -36,7 +36,6 @@ body {
   color: #42434E;
 }
 
-/*モーダル*/
 .modal-wrapper {
   position: fixed;
   top: 0;
@@ -60,7 +59,6 @@ body {
   text-align: center;
 }
 
-/*jQueryの説明*/
 #image-wrapper {
   margin: 25px auto;
   width: 240px;
